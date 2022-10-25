@@ -1,5 +1,5 @@
 # Jr_Avneet_Virtual_VoiceAssistant
-Jr. Avneet is an AI personal voice assistant service built using VS Code. It can understand human speech and perform basic task designed by the client.
+Jr. Avneet is an AI personal voice assistant service built using VS Code. It can understand human speech and perform basic task designed by the Avneet.
 
 When the user specify the appropriate trigger words , The Jr. Avneet executes the user commands.
 
