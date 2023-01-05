@@ -52,6 +52,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)"""
 
 #-- Initialize the engine --#
+# init function to get an engine instance for the speech synthesis
 engine = pyttsx3.init()
 
 
