@@ -188,7 +188,7 @@ def closeappweb(query):
 def news():
     '''It takes microphone input from the command line and outputs the results'''
 
-    newsapi = NewsApiClient(api_key='5840b303fbf949c9985f0e1016fc1155')
+    newsapi = NewsApiClient(api_key='5840b303fb45654efdg46570e1016fc1155')
     speak("What topic you need the news about")
     topic = takeCommand()
     data = newsapi.get_top_headlines(q=topic, language="en", page_size=5)
@@ -378,7 +378,7 @@ def currentWeather():
 
     city = "Aligarh"
     res = requests.get(
-        f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=16f0afad2fd9e18b7aee9582e8ce650b&units=metric"
+        f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=16i878986esr6786879tre650b&units=metric"
     ).json()
     temp1 = res["weather"][0]["description"]
     temp2 = res["main"]["temp"]
@@ -387,7 +387,7 @@ def currentWeather():
     )
     # Google Open weather website
     # to get API of Open weather
-    # api_key = "da1be0f52c77102dd3d1a53b25705215"
+    # api_key = "3d1a53b25705215"
     # speak(" City name ")
     # print("City name : ")
     # city_name = takeCommand()
@@ -490,7 +490,7 @@ def searchQuestion():
     question = takeCommand()
 
     # App id obtained by the above steps
-    app_id = "63UG78-AP8GPX2LU3"
+    app_id = "68-A2LU3"
 
     # Instance of wolf ram alpha
     # client class
@@ -506,7 +506,7 @@ def searchQuestion():
 
 
 def WolfRamAlpha(query):
-    apikey = "63UG78-AP8GPX2LU3"
+    apikey = "63UG788u9y8767gfLU3"
     requester = wolframalpha.Client(apikey)
     requested = requester.query(query)
 
@@ -757,7 +757,7 @@ if __name__ == '__main__':
         #     speak("User asked to Locate")
         #     speak(location)
         #     webbrowser.open(
-        #         "https://www.google.nl/maps/@27.1416735,80.8833819,7z" +
+        #         "https://www.googl8833819,7z" +
         #         location + "")
 
         elif "write a note" in query or 'write note' in query:
