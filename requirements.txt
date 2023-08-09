@@ -1,0 +1,10 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia-api==0.5.4
+beautifulsoup4==4.9.3
+pywhatkit==5.1
+requests==2.26.0
+newsapi-python==0.2.6
+imdbpy==7.2
+pyautogui==0.9.52
+wolframalpha==5.0.0
