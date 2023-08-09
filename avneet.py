@@ -188,7 +188,7 @@ def closeappweb(query):
 def news():
     '''It takes microphone input from the command line and outputs the results'''
 
-    newsapi = NewsApiClient(api_key='5840b303fb45654efdg46570e1016fc1155')
+    newsapi = NewsApiClient(api_key='52340b303fb45654efdg46570e1016fc1155')
     speak("What topic you need the news about")
     topic = takeCommand()
     data = newsapi.get_top_headlines(q=topic, language="en", page_size=5)
@@ -378,7 +378,7 @@ def currentWeather():
 
     city = "Aligarh"
     res = requests.get(
-        f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=16i878986esr6786879tre650b&units=metric"
+        f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=16i2535986esr6723232650b&units=metric"
     ).json()
     temp1 = res["weather"][0]["description"]
     temp2 = res["main"]["temp"]
@@ -506,7 +506,7 @@ def searchQuestion():
 
 
 def WolfRamAlpha(query):
-    apikey = "63UG788u9y8767gfLU3"
+    apikey = "63UG788uedbe637767gfLU3"
     requester = wolframalpha.Client(apikey)
     requested = requester.query(query)
 
