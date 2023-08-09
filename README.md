@@ -88,4 +88,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project was inspired by the goal of creating a useful and engaging voice assistant.
 - Special thanks to various libraries and APIs that make this project possible.
+  
+  # Personal Voice Assistant
+**Developed by:** Avneet Singh  
+**Year:** 2023  
+
+**All rights reserved.** No part of this personal voice assistant project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the developer, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+For inquiries, please contact:  
+**Avneet Singh**  
+Email: ch.avneet01@gmail.com
+
 
