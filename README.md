@@ -29,3 +29,63 @@ Junior Avneet is a Python-based personal voice assistant created by Avneet Singh
 
 - **Python 3.x**: Make sure you have Python 3.x installed on your system.
 - **Required Libraries**: Install the necessary libraries by running:
+
+
+## Installation
+
+1. Clone the repository to your local machine:
+git clone https://github.com/your-username/junior-avneet-voice-assistant.git
+cd junior-avneet-voice-assistant
+
+
+2. Install the required libraries:
+
+## Usage
+pip install -r requirements.txt
+1. Run the `main.py` script to start the voice assistant:
+
+
+2. The assistant will greet you and wait for your voice command.
+
+3. Speak your command, and the assistant will process and respond accordingly.
+
+## Available Commands
+
+Junior Avneet can perform a wide range of tasks including, but not limited to:
+
+- Greetings and casual interactions (e.g., "Hello", "How are you?").
+- Retrieving time and date.
+- Searching for information on Wikipedia.
+- Opening and closing applications.
+- Playing music.
+- Sending emails.
+- Getting weather information.
+- Searching for news.
+- Playing games (e.g., Rock-Paper-Scissors).
+- Searching on YouTube and Google.
+- Searching for movies.
+- Performing calculations.
+- Writing and displaying notes.
+- Interacting with Wolfram Alpha for answering questions.
+- Providing jokes and more.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix: `git checkout -b feature-name`.
+3. Make your changes and test thoroughly.
+4. Commit your changes: `git commit -m "Add feature"`.
+5. Push to the branch: `git push origin feature-name`.
+6. Create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- This project was inspired by the goal of creating a useful and engaging voice assistant.
+- Special thanks to various libraries and APIs that make this project possible.
+
