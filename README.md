@@ -80,9 +80,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 5. Push to the branch: `git push origin feature-name`.
 6. Create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
