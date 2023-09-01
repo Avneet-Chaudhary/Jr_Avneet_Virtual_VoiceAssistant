@@ -4,7 +4,7 @@
 
 Junior Avneet is a Python-based personal voice assistant created by Avneet Singh. It is designed to provide a hands-free experience for performing various tasks using voice commands. The assistant uses speech recognition and text-to-speech conversion to interact with the user.
 
-## Table of Contents
+### Table of Contents
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
