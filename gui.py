@@ -46,13 +46,16 @@ for frame in ImageSequence.Iterator(gif_image):
     frame = ImageTk.PhotoImage(frame)
     animation_frames.append(frame)
 
+
 # Create a label to display the GIF frames
 current_frame_index = 0
 gif_label = tk.Label(window, width=800, height=600)
 gif_label.pack()
 
+
 # Start the animation
 update_animation()
+
 
 # Create a start button
 start_button = tk.Button(
