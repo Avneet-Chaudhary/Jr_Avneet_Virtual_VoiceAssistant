@@ -95,6 +95,6 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 For inquiries, please contact:  
 **Avneet Singh**  
-Email: ch.avneet01@gmail.com
+Email: singh.av2604@gmail.com
 
 
